@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				177,
+				-176
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mago DOWN"
+		},
+		{
+			"offsets": [
+				253,
+				-76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mago LEFT"
+		},
+		{
+			"offsets": [
+				49,
+				-62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mago RIGHT"
+		},
+		{
+			"offsets": [
+				281,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mago UP"
+		},
+		{
+			"offsets": [
+				110,
+				-68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mago Idle"
+		},
+		{
+			"offsets": [
+				197,
+				-66
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "modchart",
+			"loop": false,
+			"name": "Mago Modchart"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mago_Brujo",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "missamago",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		20,
+		40
+	],
+	"camera_position": [
+		-240,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

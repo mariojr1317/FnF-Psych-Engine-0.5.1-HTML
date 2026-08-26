@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MissaCoolIdle"
+		},
+		{
+			"offsets": [
+				5,
+				-165
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MissaCoolDOWN"
+		},
+		{
+			"offsets": [
+				25,
+				-87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MissaCoolUP"
+		},
+		{
+			"offsets": [
+				-5,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "que",
+			"indices": [],
+			"name": "MissaCoolQue"
+		},
+		{
+			"offsets": [
+				117,
+				-82
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "MissaCoolRIGHT"
+		},
+		{
+			"offsets": [
+				-3,
+				-82
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "MissaCoolLEFT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MissasinfoniaCool",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "missa",
+	"flip_x": true,
+	"healthbar_colors": [
+		47,
+		47,
+		47
+	],
+	"camera_position": [
+		-60,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
